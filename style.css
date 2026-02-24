@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+
+.note-form input,
+.note-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.note-form button {
+  padding: 10px 12px;
+  cursor: pointer;
+}
+
+.note-item {
+  background: white;
+  padding: 13px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.actions button {
+  margin-right: 5px;
+}
